@@ -1,5 +1,2 @@
-![Screenshot_20241005-025322](https://github.com/user-attachments/assets/4c2a173c-bab3-48b1-ba64-4d24666f2101)
-![Screenshot_20241005-025316](https://github.com/user-attachments/assets/6b81f7b0-6df7-43b9-9b02-e3c7cb061f6e)
-![Screenshot_20241005-025306](https://github.com/user-attachments/assets/628c744e-f640-42ec-b135-f5838c1d013b)
-![Screenshot_20241005-025204](https://github.com/user-attachments/assets/44592796-8963-41f8-a697-b0175b758ae9)
-![Screenshot_20241005-025031](https://github.com/user-attachments/assets/65f9eb32-d138-47c1-a74e-876d1bb861bf)
+
+It's an app for Dictionary app using google dictionary api in react_native.
